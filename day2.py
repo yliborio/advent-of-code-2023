@@ -1,3 +1,5 @@
+# problem description: https://adventofcode.com/2023/day/2
+
 file_path = 'inputs/2.txt'
 with open(file_path, 'r') as file:
     # Read all lines from the file and create an array of strings

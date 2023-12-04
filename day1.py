@@ -1,3 +1,5 @@
+# problem description: https://adventofcode.com/2023/day/1
+
 file_path = 'inputs/1.txt'  # Replace 'your_file.txt' with the path to your file
 dic = {}
 
